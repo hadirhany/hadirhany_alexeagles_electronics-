@@ -1,6 +1,5 @@
 # Task 2 — PCB Component Identification
 
-Board: HEROLINK power-distribution board (camera/peripheral power breakout — input jack, multiple regulated rails, motor/camera connectors).
 
 | Component type | Reference designator | Function & why it's needed |
 |---|---|---|
